@@ -1,0 +1,1 @@
+(help.?|aid.?|assistance|assist.?|support.?|facilitate.?|focus on|optimize.?|improve.?|maximize|to learn.?| cue.?|guidance|supervision|physically demanding)

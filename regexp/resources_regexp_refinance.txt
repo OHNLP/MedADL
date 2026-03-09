@@ -1,0 +1,1 @@
+(finance|financial|bank|credit card|checkbook|financial work)

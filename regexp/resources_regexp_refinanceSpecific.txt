@@ -1,0 +1,5 @@
+family helps with (\S+\s+){0,8}(finances|pay the money)
+helps with (\S+\s+){0,8}pay the money
+upset at the bank
+not have (\S+\s+){0,8}checking account
+makes errors (\S+\s+){0,8}reading numbers

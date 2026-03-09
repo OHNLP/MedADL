@@ -1,0 +1,23 @@
+arrival mode ambulance
+transferred via by car
+arrival mode: (\S+\s+){0,5}(private vehicle|ambulance)
+car transfers: (\S+\s+){0,5}(assist needed|Independent)
+drive with assistance
+unable to drive
+lack of transportation (\S+\s+){0,5}.?yes
+driving reassessment
+falling asleep while driving
+symptoms (\S+\s+){0,5}worse when (\S+\s+){0,5}driving
+driving safety (\S+\s+){0,5}recommended
+worsens (\S+\s+){0,5}driving
+dep.? driving
+(stopped|avoid|gave up|give up|slowed|aggravated|refrain from|quit) (\S+\s+){0,3}driving
+driving.? stopped
+transportation .? dependent
+driving evaluation conducted
+benefit from (\S+\s+){0,5}driving evaluation
+worse when driving
+transportation barrier
+driving (\S+\s+){0,5}got lost
+not drive on the freeway
+lost (\S+\s+){0,5}driving

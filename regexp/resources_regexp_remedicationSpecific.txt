@@ -1,0 +1,25 @@
+(?i)(daughter|family|wife|nursing) (\S+\s+){0,8}(medication management|managing medication.?|medication administration|administer.? medications|take meds)
+wife manages medication
+\(\s*non-compliant with medication,\s*\)
+
+(oversight|coordination|non.?compliant|\(non.?compliant) (\S+\s+){0,8}(medication management|managing medication.?|medication administration|administer.? medications|take meds)
+
+(medication management|managing medication.?|medication administration|administer.? medications|take meds) (\S+\s+){0,8}(min a)
+
+reminding (\S+\s+){0,5}take meds
+//setting up (\S+\s+){0,5}medications
+//UT
+taking (\S+\s+){0,2}meds (\S+\s+){0,2}incorrectly
+records (his|her) bps at home at least once daily
+(compliance with|taken control of|noncompliant with) (\S+\s+){0,4}(medications|meds|home oxygen)
+misses (his|her) bp med
+(discontinued|refuse) (\S+\s+){0,8}(coumadin|anticoagulation)
+not taking (his|her) medications
+(misses|missed) (\S+\s+){0,5}(medication.+|med.+|hydroxyzine|bp)
+noncompliance with medical recommendations
+missed scheduled (medications|med|meds)
+(not been taking|unable to manage|stopped taking|incorrectly|stopped) (\S+\s+){0,6}(meds|medications|medicines)
+\\(V58\\.69\\)
+not taking  (\S+\s+){0,2}as prescribed
+taking other meds not ordered by pcp
+erratic (\S+\s+){0,4}taking (\S+\s+){0,4}(meds|medications|medicines)

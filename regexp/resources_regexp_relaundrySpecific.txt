@@ -1,0 +1,2 @@
+laundry .? dependent
+laundry (\S+\s+){0,10}lost (\S+\s+){0,3}balance

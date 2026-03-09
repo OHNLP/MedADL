@@ -1,0 +1,1 @@
+\b(no|not|none|nobody|nothing|neither|nowhere|never|cannot|can't|won't|isn't|aren't|wasn't|weren't|don't|doesn't|didn't|hasn't|haven't|hadn't|shouldn't|wouldn't|couldn't|mustn't|without|except|nor|non-\w+)\b

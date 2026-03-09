@@ -1,0 +1,12 @@
+dressing .? dependent
+dressing inappropriately
+dressingassist
+dressing assist
+wore his wifes shoes
+dressing (\S+\s+){0,10}not able to
+dressing up with minimal assisance
+cannot dress
+spv for dressing
+continue to (\S+\s+){0,10}dress on (\S+\s+){0,5}own
+ability to put on her bra
+too difficult to put on

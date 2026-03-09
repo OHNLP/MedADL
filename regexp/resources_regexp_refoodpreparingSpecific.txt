@@ -1,0 +1,17 @@
+(daughter|family|husband|provider) (\S+\s+){0,8}(feeding|prepare.? lunch|cook|cooking|meal|eal)
+provided resources for meals
+phoned meals on wheels
+housekeeping and meals
+cooking .? dependent
+makes very simple meals
+not (\S+\s+){0,8}(cooking|cook| prepare meals)
+preparing simple meals
+miss a meal
+not enthused about cooking
+eats more if
+not drive or cook her own food
+meals (\S+\s+){0,8}premade
+dropping things while cooking.?
+meals from the facility
+soup is difficult
+meal preparation.?microwave

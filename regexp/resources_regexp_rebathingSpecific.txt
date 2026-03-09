@@ -1,0 +1,15 @@
+(order for|send|purchase) (\S+\s+){0,10}shower chair
+home health for bathing
+re.? shower chair
+shower (\S+\s+){0,30}lost her balance
+shower rale in place
+bathe self.? partial.+mod.+\d{2}
+bathe self.? substantial.+max.+\d{2}
+(person|patient) (\S+\s+){0,10}want a sink bath
+partial bath
+min a for showering
+dme for shower chair
+shower rale in place
+not (\S+\s+){0,10}able (\S+\s+){0,10}hower
+subject.? shower chair
+shower transfer

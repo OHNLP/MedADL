@@ -1,0 +1,11 @@
+(transfer.?|ambulation|walk|walking|mobility|lifting|transferring|getting out of bed|impaired mobility|getting up)
+(transfer.?|ambulation|walk|walking|mobility|lifting|transferring|getting out of bed|mobility:|transfers :|mobility :)
+transfers
+getting in/out of bed
+mobility (on level surfaces):
+stretcher
+bed mobility
+//UT
+ambulates with walker
+get up out of a sitting position
+gait

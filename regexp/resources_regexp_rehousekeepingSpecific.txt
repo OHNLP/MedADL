@@ -1,0 +1,4 @@
+numbness (\S+\s+){0,7}housekeeping
+cleaning.?repairs .? dependent
+assists with (\S+\s+){0,7}cleaning
+cleaning and hurt

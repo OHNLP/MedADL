@@ -1,0 +1,1 @@
+(bathing|bath|showering|shower|bathe|sink bath)

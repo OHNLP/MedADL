@@ -1,0 +1,7 @@
+eating disturbances
+not eating
+feeding assistance
+eating.? supervision.?
+eating.? setup.?
+\[\]eating disturbances
+affected by (\S+\s+){0,5}swallowing

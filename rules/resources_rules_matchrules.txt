@@ -1,0 +1,92 @@
+RULENAME="cm_rehousekeeping",REGEXP="\b(?:%reimpairment) (\S+\s+){0,15}(?:%rehousekeeping)\b",LOCATION="",NORM="housekeeping"
+RULENAME="cm_rehousekeeping",REGEXP="\b(?:%reassistant) (\S+\s+){0,15}(?:%rehousekeeping)\b",LOCATION="",NORM="housekeeping"
+RULENAME="cm_rehousekeeping",REGEXP="\b(?:%rehousekeeping) (\S+\s+){0,15}(?:%reimpairment)\b",LOCATION="",NORM="housekeeping"
+RULENAME="cm_rehousekeeping",REGEXP="\b(?:%rehousekeeping) (\S+\s+){0,15}(?:%reassistant)\b",LOCATION="",NORM="housekeeping"
+RULENAME="cm_rehousekeeping",REGEXP="\b(?:%rehousekeepingSpecific)\b",LOCATION="",NORM="housekeeping"
+
+RULENAME="cm_readl",REGEXP="\b(?:%reimpairment) (\S+\s+){0,20}(?:%readl)\b",LOCATION="",NORM="adl"
+RULENAME="cm_readl",REGEXP="\b(?:%reassistant) (\S+\s+){0,20}(?:%readl)\b",LOCATION="",NORM="adl"
+RULENAME="cm_readl",REGEXP="\b(adl.+s.+ (\S+\s+){0,20}(?:%reassistant))\b",LOCATION="",NORM="adl"
+RULENAME="cm_readl",REGEXP="\b(adl.+s.+ (\S+\s+){0,20}(?:%reimpairment))\b",LOCATION="",NORM="adl"
+RULENAME="cm_readl",REGEXP="\b(alteration in self-care ability)\b",LOCATION="",NORM="adl"
+RULENAME="cm_readl",REGEXP="\b(return (\S+\s+){0,5}to functional activities of daily living)\b",LOCATION="",NORM="adl"
+RULENAME="cm_readl",REGEXP="\b(train (\S+\s+){0,5}in techniques (?:%readl))\b",LOCATION="",NORM="adl"
+RULENAME="cm_readl",REGEXP="\b(function adl.+idal problem list)\b",LOCATION="",NORM="adl"
+
+
+RULENAME="cm_rebathing",REGEXP="\b(?:%rebathingSpecific)\b",LOCATION="",NORM="bathing"
+RULENAME="cm_rebathing",REGEXP="\b(?:%reimpairment) (\S+\s+){0,20}(?:%rebathing)\b",LOCATION="",NORM="bathing"
+RULENAME="cm_rebathing",REGEXP="\b(?:%reassistant) (\S+\s+){0,20}(?:%rebathing)\b",LOCATION="",NORM="bathing"
+
+
+RULENAME="cm_recontinence",REGEXP="\b(?:%recontinence)\b",LOCATION="",NORM="continence"
+RULENAME="cm_recontinence",REGEXP="\bgenitourinary.+  (\S+\s+){0,20},.+incontinence\b",LOCATION="",NORM="continence"
+
+
+RULENAME="fall_excl",REGEXP="\b(?i)(%refallRemove)\b",LOCATION="NA",NORM="REMOVE"
+RULENAME="cm_refall",REGEXP="\b(?:%refall)\b",LOCATION="",NORM="fall"
+
+
+RULENAME="cm_redressing",REGEXP="\b(?:%reimpairment) (\S+\s+){0,20}(?:%redressing)\b",LOCATION="",NORM="dressing"
+RULENAME="cm_redressing",REGEXP="\b(?:%reassistant) (\S+\s+){0,20}(?:%redressing)\b",LOCATION="",NORM="dressing"
+RULENAME="cm_redressing",REGEXP="\b(?:%redressingSpecific)\b",LOCATION="",NORM="dressing"
+
+RULENAME="cm_refeeding",REGEXP="\b(?:%reimpairment) (\S+\s+){0,20}(?:%refeeding)\b",LOCATION="",NORM="feeding"
+RULENAME="cm_refeeding",REGEXP="\b(?:%reassistant) (\S+\s+){0,20}(?:%refeeding)\b",LOCATION="",NORM="feeding"
+RULENAME="cm_refeeding",REGEXP="\b(?:%refeedingSpecific)\b",LOCATION="",NORM="feeding"
+
+RULENAME="cm_refinance",REGEXP="\b(?:%reimpairment) (\S+\s+){0,12}(?:%refinance)\b",LOCATION="",NORM="finance"
+RULENAME="cm_refinance",REGEXP="\b(?:%refinance) (\S+\s+){0,12}(?:%reimpairment)\b",LOCATION="",NORM="finance"
+RULENAME="cm_refinance",REGEXP="\b(?:%refinance) (\S+\s+){0,12}(?:% reassistant)\b",LOCATION="",NORM="finance"
+RULENAME="cm_refinance",REGEXP="\b(?:%reassistant) (\S+\s+){0,12}(?:%refinance)\b",LOCATION="",NORM="finance"
+RULENAME="cm_refinance",REGEXP="\b(?:%refinanceSpecific)\b",LOCATION="",NORM="finance"
+
+RULENAME="cm_refoodpreparing",REGEXP="\b(?:%reimpairment) (\S+\s+){0,12}(?:%refoodpreparing)\b",LOCATION="",NORM="foodpreparing"
+RULENAME="cm_refoodpreparing",REGEXP="\b(?:%reassistant) (\S+\s+){0,12}(?:%refoodpreparing)\b",LOCATION="",NORM="foodpreparing"
+RULENAME="cm_refoodpreparing",REGEXP="\b(?:%refoodpreparing) (\S+\s+){0,12}(?:%reimpairment)\b",LOCATION="",NORM="foodpreparing"
+RULENAME="cm_refoodpreparing",REGEXP="\b(?:%refoodpreparing) (\S+\s+){0,12}(?:%reassistant)\b",LOCATION="",NORM="foodpreparing"
+RULENAME="cm_refoodpreparing",REGEXP="\b(?:%refoodpreparingSpecific)\b",LOCATION="",NORM="foodpreparing"
+
+RULENAME="cm_reiadl",REGEXP="\b(?:%reimpairment) (\S+\s+){0,8}(?:%reiadl)\b",LOCATION="",NORM="iadl"
+RULENAME="cm_reiadl",REGEXP="\b(?:%reassistant) (\S+\s+){0,8}(?:%reiadl)\b",LOCATION="",NORM="iadl"
+RULENAME="cm_reiadl",REGEXP="\b(?:%reiadlSpecific)\b",LOCATION="",NORM="iadl"
+
+RULENAME="cm_relaundry",REGEXP="\b(?:%reimpairment) (\S+\s+){0,8}(?:%relaundry)\b",LOCATION="",NORM="laundry"
+RULENAME="cm_relaundry",REGEXP="\b(?:%reassistant) (\S+\s+){0,8}(?:%relaundry)\b",LOCATION="",NORM="laundry"
+RULENAME="cm_relaundry",REGEXP="\b(?:%relaundrySpecific)\b",LOCATION="",NORM="laundry"
+
+RULENAME="cm_remedication",REGEXP="\b(?:%reimpairment) (\S+\s+){0,8}(?:%remedication)\b",LOCATION="",NORM="medication"
+RULENAME="cm_remedication",REGEXP="\b(?:%reassistant) (\S+\s+){0,8}(?:%remedication)\b",LOCATION="",NORM="medication"
+RULENAME="cm_remedication",REGEXP="\b(?:%negation) (\S+\s+){0,8}(?:%remedication)\b",LOCATION="",NORM="medication"
+RULENAME="cm_remedication",REGEXP="\b(?:%remedicationSpecific)\b",LOCATION="",NORM="medication"
+
+RULENAME="medication_excl",REGEXP="\b(?i)discussed (\S+\s+){0,15}(?:%remedication)\b",LOCATION="NA",NORM="REMOVE"
+
+RULENAME="cm_reshopping",REGEXP="\b(?:%reimpairment) (\S+\s+){0,8}(?:%reshopping)\b",LOCATION="",NORM="shopping"
+RULENAME="cm_reshopping",REGEXP="\b(?:%reassistant) (\S+\s+){0,8}(?:%reshopping)\b",LOCATION="",NORM="shopping"
+RULENAME="cm_reshopping",REGEXP="\b(?:%refamily) (\S+\s+){0,8}(?:%reshopping)\b",LOCATION="",NORM="shopping"
+RULENAME="cm_reshopping",REGEXP="\b(?:%reshoppingSpecific)\b",LOCATION="",NORM="shopping"
+
+RULENAME="cm_retelephone",REGEXP="\b(?:%reimpairment) (\S+\s+){0,8}(?:%retelephone)\b",LOCATION="",NORM="telephone"
+RULENAME="cm_retelephone",REGEXP="\b(?:%reassistant) (\S+\s+){0,8}(?:%retelephone)\b",LOCATION="",NORM="telephone"
+
+RULENAME="cm_retoileting",REGEXP="\b(?:%reimpairment) (\S+\s+){0,8}(?:%retoileting)\b",LOCATION="",NORM="toileting"
+RULENAME="cm_retoileting",REGEXP="\b(?:%reassistant) (\S+\s+){0,8}(?:%retoileting)\b",LOCATION="",NORM="toileting"
+RULENAME="cm_retoileting",REGEXP="\b(?:%retoiletingSpecific)\b",LOCATION="",NORM="toileting"
+
+RULENAME="cm_retransferring",REGEXP="\b(?:%reimpairment) (\S+\s+){0,20}(?:%retransferring)\b",LOCATION="",NORM="transferring"
+RULENAME="cm_retransferring",REGEXP="\b(?:%reassistant) (\S+\s+){0,20}(?:%retransferring)\b",LOCATION="",NORM="transferring"
+RULENAME="cm_retransferring",REGEXP="\b(?:%retransferring) (\S+\s+){0,5}(?:%reimpairment)\b",LOCATION="",NORM="transferring"
+RULENAME="cm_retransferring",REGEXP="\b(?:%retransferring) (\S+\s+){0,5}(?:%reassistant)\b",LOCATION="",NORM="transferring"
+RULENAME="cm_retransferring",REGEXP="\b(?:%retransferringSpecific)\b",LOCATION="",NORM="transferring"
+
+RULENAME="cm_rehandyman",REGEXP="\b(?:%reimpairment) (\S+\s+){0,8}(?:%rehandyman)\b",LOCATION="",NORM="handyman"
+RULENAME="cm_rehandyman",REGEXP="\b(?:%reassistant) (\S+\s+){0,8}(?:%rehandyman)\b",LOCATION="",NORM="handyman"
+RULENAME="cm_rehandyman",REGEXP="\b(avoid (\S+\s+){0,8}(?:%rehandyman))\b",LOCATION="",NORM="handyman"
+
+RULENAME="cm_retransportation",REGEXP="\b(?:%reimpairment) (\S+\s+){0,8}(?:%retransportation)\b",LOCATION="",NORM="transportation"
+RULENAME="cm_retransportation",REGEXP="\b(?:%reassistant) (\S+\s+){0,8}(?:%retransportation)\b",LOCATION="",NORM="transportation"
+RULENAME="cm_retransportation",REGEXP="\b(?:%renegation) (\S+\s+){0,8}(?:%retransportation)\b",LOCATION="",NORM="transportation"
+RULENAME="cm_retransportation",REGEXP="\b(?:%refamily) (\S+\s+){0,8}(?:%retransportation)\b",LOCATION="",NORM="transportation"
+RULENAME="cm_retransportation",REGEXP="\b(?:%retransportation) (\S+\s+){0,8}(?:%refamily)\b",LOCATION="",NORM="transportation"
+RULENAME="cm_retransportation",REGEXP="\b(?:%retransportationSpecific)\b",LOCATION="",NORM="transportation"

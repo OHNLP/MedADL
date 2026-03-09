@@ -1,0 +1,6 @@
+(feeding|prepare.? lunch|cook|cooking|meal.?|eal|meals)
+meal preparation
+preparing meals
+occupation cook
+cook
+cooking

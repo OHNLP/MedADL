@@ -1,0 +1,27 @@
+(?i)(gait.?|mobility|gait|walk) (\S+\s+){0,10}(unsteady|instability|slow|abnormal|impairment.?|disturbance|abnormality|dysfunction|imbalance|stooped|limping|stooping|unstable|forward flexed|wide based|shuffling|wheelchair.?|limited|difficulties|walker|wheelchair|antalgic)
+(?i)(poor|unsteady|instability|slow|abnormal|impairment|disturbance|abnormality|antalgic|unstable|abnormalities|difficult|spastic|ataxic|unstable) (\S+\s+){0,5}(gait|walk|weight bear)
+unable to walk without assistance
+transfer deficits
+getting in.?out of bed
+mobility .?on level surfaces.?
+is moving around adequately
+bed mobility dependent
+in a wheelchair
+ataxia improved
+worsening balance
+ambulates with walker
+get up out of a sitting position
+able to stand up and had decreased stamina
+felt unstable
+difficult to ambulate
+symptoms (\S+\s+){0,5}worse (\S+\s+){0,5}(weight bearing|walking|climbing)
+(walk|walking) (\S+\s+){0,5}(feet|slower|worse)
+imbalance with ambulation
+(breath with|fatigued|tired|rollator|worse with) (\S+\s+){0,5}walking
+gait problem.?
+change in gait
+stop.? walking
+not walking
+pt for walking
+(require.?|use.?|walking) (\S+\s+){0,5}(cane|walker)
+(therapy.?|assistance) (\S+\s+){0,5}(mobility|balance)

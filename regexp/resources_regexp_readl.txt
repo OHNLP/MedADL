@@ -1,0 +1,2 @@
+// Case-insensitive match for various terms related to ADLs and functional status
+(adl|adls|activities of daily living|activity of daily living|basic activity of daily living|self[-\s]?care|self-care skills|daily activity|daily business|functional status|iadl.+adl|functional status|difficult|daily activity)
